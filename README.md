@@ -71,3 +71,5 @@ The e2e tests are using Protractor and Jasmine.
 
 [License](LICENSE.txt)
 # Run it
+
+## Servers are cool
